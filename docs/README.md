@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: TANG
 profile: /profile.jpg
 
 socials:
